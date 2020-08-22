@@ -1,0 +1,14 @@
+{
+  "name": "autossh",
+  "version": "1.0.0",
+  "description": "ejecutar comando por ssh",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "junior corales",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2": "^0.8.9"
+  }
+}
